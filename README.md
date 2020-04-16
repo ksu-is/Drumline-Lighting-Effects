@@ -1,3 +1,4 @@
 # Drumline-Lighting-Effects
-This is a program meant for a marching band drumline where LED lights will be attached to the drums and depending on where the perform is on the field they will change colors.
-The marching band field is spserated out into coordiantes to leanr our drill and how to march. These cordiantes will be used and using a tracker of some sorts to locate the center snare player with the marching field cordinates it will follow a programmed out set of lighting effects that will change for the entier dumline. The "master" controller will be the center snare as he will be the only one being tracked and will cause the light updates.
+This is a program meant for a marching band drumline where LED lights will be attached to the drums and a program will run that will change the colors of the lights along with the peformance.
+There will be a user on the front side line that will controll when the lights will change and play through certain sequences.
+The lights will be manually controlled because something set on a timer wont always work when a perfromance is never replicated the same twice.
