@@ -14,6 +14,8 @@
 
 - Obtain a Rasberry Pi with needed components to test code and LED's
 
+- Understand and contruct code on how to manipulate a strip of LED lights using Python and a Rasberry Pi
+
 - Figure out how to construct code to run on one set of LED's; one drum
 
 - Figure out how to expand each code to multiple drums
