@@ -17,3 +17,10 @@ for x in range(0,LED_COUNT):
     strip.setPixelColor(x,Color(255,0,0))
 
 strip.show()
+
+def Color(red, green, blue):
+    	"""Convert the provided red, green, blue color to a 24-bit color value.
+	Each color component should be a value 0-255 where 0 is the lowest intensity
+	and 255 is the highest intensity.
+	"""
+	return (red << 16) | (green << 8) | blue
