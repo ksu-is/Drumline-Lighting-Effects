@@ -12,7 +12,13 @@
 
 - Figure out how to run chosen reference code
 
-- Obtain a Rasberry Pi with needed components to test code and LED's
+✔ Obtain a Rasberry Pi with needed components
+
+✔ Understand how a button press can produce a feedback that can then be turned into an output source
+
+- Cause the button press to light up an LED light
+
+- Figure out how to control RGB LED light and manipulate its colors
 
 - Understand and contruct code on how to manipulate a strip of LED lights using Python and a Rasberry Pi
 
